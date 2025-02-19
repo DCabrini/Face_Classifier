@@ -23,7 +23,7 @@ Além disso, para a detecção de rostos, as bibliotecas mtcnn e lz4 precisam se
 pip install mtcnn
 pip install lz4
 
-##Como Usar
+## Como Usar
 
 Passo 1: Instalar as dependências
 Primeiro, instale as bibliotecas necessárias com o comando acima.
@@ -34,6 +34,6 @@ A imagem será baixada de uma URL e exibida em seu notebook Jupyter.
 Passo 3: Detectar rostos
 Com a biblioteca MTCNN, os rostos presentes na imagem serão detectados e destacados com retângulos verdes. O código mostra a imagem resultante após a detecção de rostos.
 
-##Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
